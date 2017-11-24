@@ -1,1 +1,1 @@
-# node-awt-with-jwt
+# node-auth-with-jwt
